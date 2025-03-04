@@ -1,5 +1,5 @@
 # Tutorials
-Blender 4.0 Beginner Donut Tutorial (NEW) by Blender Guru
+Blender 4.0 Beginner Donut Tutorial (NEW) by Blender Guru<br>
 Rendering STL in Markdown on GitHub by Matthijs van der Veer's Blog
 
 
